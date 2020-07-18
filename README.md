@@ -7,6 +7,7 @@ Hi, I'm angga — a full-stack web developer. Interested to front-end developmen
 ## My expertises
 🌐 Web Development with Laravel, Node and CodeIgniter 3<br>
 ⚛️ Front End Development with React Js and React Native. <br>
+🧩 Browser Extension Development.<br>
 
 ## My values
 😊 Spread smiles to people's faces.<br>
