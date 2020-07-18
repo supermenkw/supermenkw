@@ -6,7 +6,7 @@
 Hi, I'm angga — a full-stack web developer. Interested to front-end development and UI/UX design. Currently a freelancer and looking for full-time jobs. If you interested to hire me, feel free to contact me via email or phone below. I'm a movie geek, manga reader and dota 2 player.
 
 ## Skills
-<img src="https://raw.githubusercontent.com/supermenkw/supermenkw/master/skill.png">
+<img src="https://raw.githubusercontent.com/supermenkw/supermenkw/master/skill.jpg">
 
 ## Special skills
 😊 Spread smiles to people's faces.<br>
