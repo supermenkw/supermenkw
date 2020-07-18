@@ -7,7 +7,7 @@ Hi, I'm angga — a full-stack web developer. Interested to front-end developmen
 
 ## Skills
 <p align="center">
-<img src="https://raw.githubusercontent.com/supermenkw/supermenkw/master/skill.jpg" height="300">
+<img src="https://raw.githubusercontent.com/supermenkw/supermenkw/master/skill.jpg">
 </p> <br>
 
 ## Special skills
