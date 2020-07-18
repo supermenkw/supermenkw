@@ -4,12 +4,16 @@
 <h1 align="center"> Angga M. Ginanjar — @supermenkw </h1> <br>
 Hi, I'm angga — a full-stack web developer. Interested to front-end development and UI/UX design. Currently a freelancer and looking for full-time jobs. If you interested to hire me, feel free to contact me via email or phone below. I'm a movie geek, manga reader and dota 2 player.
 
-## My expertises
-🌐 Web Development with Laravel, Node and CodeIgniter 3<br>
-⚛️ Front End Development with React Js and React Native. <br>
-🧩 Browser Extension Development.<br>
+## Ability
+### Languages&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Frameworks
+HTML&#160;⭐⭐⭐⭐⭐&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Laravel &#160;&#160;&#160;&#160;&#160;&#160;&#160; ⭐⭐⭐⭐<br>
+CSS&#160;&#160;&#160;&#160;⭐⭐⭐⭐&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;CI 3&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ⭐⭐⭐⭐<br>
+JS&#160;&#160;&#160;&#160;&#160;&#160;&#160;⭐⭐⭐⭐ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;React JS &#160;&#160;&#160;&#160;&#160;&#160; ⭐⭐⭐⭐<br>
+PHP&#160;&#160;&#160;&#160;⭐⭐⭐ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;React Native⭐⭐⭐<br>
+SQL&#160;&#160;&#160;&#160;⭐⭐⭐⭐ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Express &#160;&#160;&#160;&#160;&#160;&#160;&#160; ⭐⭐⭐<br>
+Java&#160;&#160;&#160;&#160;⭐⭐⭐ <br>
 
-## My values
+## Special ability
 😊 Spread smiles to people's faces.<br>
 🎯 A man of focus.<br>
 🍏 Beginner's mindset and curiosity.<br>
